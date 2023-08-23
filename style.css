@@ -1,0 +1,62 @@
+@font-face{
+  font-family: xudoyor;
+  src: url(./Roboto_Condensed/RobotoCondensed-Light.ttf);
+}
+@font-face{
+  font-family: hello;
+  src: url(./Rubik_Puddles/RubikPuddles-Regular.ttf);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.title{
+    color: red !important;
+    font-family: xudoyor;
+
+}
+  html body .text{
+    color: yellow;
+
+  }
+   body .text{
+    color: blue;
+   }
+   .text{
+    color: red !important
+   }
+   .matn{
+    padding: 30px 10%;
+    font-size: 1.5rem;
+     line-height: 1.8;
+     word-spacing: 50px;
+     letter-spacing: 5px;
+     text-transform: lowercase;
+     text-transform: uppercase;
+     text-transform: capitalize;
+
+     text-decoration: underline;
+     text-decoration: overline;
+   }
+   .msg{
+     font-family: hello;
+    width: 200px;
+    padding: 20px;
+    border-radius: 15px 15px 15px 0;
+    background: rgb(199, 255, 116);
+    margin: 50px;
+    word-break: break-all;
+    
+
+   }
+
+
+
+
+
+
+

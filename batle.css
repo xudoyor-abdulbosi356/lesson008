@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+ .main{
+    width: 250px;
+    height: 350px;
+    border-radius: 200px 200px 50px 50px ;
+    background: rgb(205, 205, 69);
+     align-items: center;
+     justify-content: center;
+     margin: auto;
+ } 
+
+
+
+
+
+
